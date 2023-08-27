@@ -1,0 +1,7 @@
+id=m53mods
+name=M53 Hidden Mods
+version=v1.0.0
+versionCode=1
+author=daft plonker
+description=Adds S-Series features to the Galaxy M53.
+updateJson=https://raw.githubusercontent.com/daft-plonker/M53-Hidden-Mods/main/update.json
