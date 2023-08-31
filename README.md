@@ -23,7 +23,10 @@
 - To fix Samsung Health root detection, I recommend using [SamsungAppsPatcher](https://adil.hanney.org/SamsungAppsPatcher/)
 
 ### Known bugs:
-- None. Please report, if you find any
+- Camera app crash. Happens when using either facial recognition, or switching from selfie camera to the front camera.
+Two workarounds:
+- When wanting to use the front camera clear the Camera app storage data and launch it again
+- Or switch to another mode when using selfie camera than the default (e.g. video) and it will not crash when switching back to the front
 
 #### Added OS Features:
 - Added Native AppLock (To open the app download Activity Launcher search for applock and open activity .settings.AppLockSettingsActivity)
