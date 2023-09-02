@@ -3,4 +3,4 @@ Running on devices with another patch can cause issues!
 
 ---
 <b>Changelog:</b>
-<br />• Initial release
+<br />• Fixed Camera app crashes
